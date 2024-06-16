@@ -2,7 +2,7 @@
 
 Welcome to the Artificial-Intelligence repository, where the fusion of Machine Learning (ML) and Deep Learning (DL) creates a comprehensive platform for exploring the realms of AI. This repository is structured to facilitate learning, experimentation, and advancement in various AI domains.
 
-## Deep Learning Folder
+## Deep Learning
 
 Deep Learning models are at the forefront of AI, capable of interpreting complex data structures and patterns. This folder contains projects and algorithms that leverage deep neural networks for a variety of applications.
 
@@ -36,7 +36,7 @@ Deep Learning models are at the forefront of AI, capable of interpreting complex
 ### Translation Attention Networks
 - **Description**: Enhance machine translation quality with attention mechanisms that focus on the important parts of language.
 
-## Machine Learning Folder
+## Machine Learning
 
 The Machine Learning folder is a collection of foundational algorithms and techniques that underpin AI, providing a solid base for building more complex models.
 
